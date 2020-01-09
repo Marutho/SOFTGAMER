@@ -6,4 +6,4 @@
 
 
 
-© All rights reserved
+© All rights reserved THE CLOTHERS ARE FROM KIKILLOPIECES AND FANGAMER just for testing.
