@@ -7,7 +7,7 @@
 
 
 ### E-Commerce made in PHP with MySQLI (Currently working on it)
-<img src="tshirtpage.png" alt="Logo">
+<img src="Tshirtpage.png" alt="Logo">
 
 
 
